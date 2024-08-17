@@ -47,6 +47,6 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e sempre em bus
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeivissonCampos&show_icons=true&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeivissonCampos&show_icons=true&theme=dark)-->
 
 Obrigado por visitar meu perfil! Vamos colaborar e criar coisas incríveis juntos.
