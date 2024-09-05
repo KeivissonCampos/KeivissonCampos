@@ -34,9 +34,9 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e sempre em bus
 
 ## 📫 Como me encontrar
 
-- **GitHub:** [KeivissonCampos](https://github.com/kcs-hub)
+- **GitHub:** [KeivissonCampos](https://github.com/KeivissonCampos))
 - **LinkedIn:** [Keivisson Campos](https://www.linkedin.com/in/keivisson-campos)
-- **E-mail:** keivisson.campos@example.com
+- **E-mail:** keivisson.dev@gmail.com
 
 ---
 
