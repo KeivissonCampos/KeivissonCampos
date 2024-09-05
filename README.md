@@ -26,7 +26,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e sempre em bus
 
 ## 🛠️ Projetos
 
-- **[Assistente Pessoal Robótico](#)**: Um aplicativo que simula os olhos de um robô e aciona dispositivos Sonoff através da API do eWeLink.
+- **[Assistente Pessoal Robótico](#)**: Um aplicativo que simula os olhos de um robô e é possivel interagir verbalmente com utilização das APIs Text to Speak (Azure) e GPT (Openai).
 - **[Página de Apresentação do Portfólio](#)**: Um site pessoal utilizando a fonte 'Poppins' do Google Fonts.
 - **[Sistema de RH SaaS](#)**: Um sistema para gerenciar empresas remotamente com funcionalidades de RH.
 
